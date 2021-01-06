@@ -1,7 +1,7 @@
 # Spotify-Room-API
 Full-Stack project using React, Django and the Spotify API.
 
-Create a room, share the code with your friend and let them decide the music.
+Create a room, share the code with your friends and let them decide the music. If you want to...
 
 ![](https://github.com/Sl8my/Spotify-Room-API/blob/master/Spotify-Room-GIF.gif)
 
